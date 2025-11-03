@@ -11,7 +11,7 @@ I'm currently working as a **Junior Developer**, with a focus on **front-end tec
 ## 🎓 Academic Background  
 - 🎓 Technical degree in **Systems Analysis and Development**  
 - 🎓 Postgraduate degree in **Java Systems Development**  
-- 🎓 Currently pursuing an **MBA in Business Intelligence**
+- 🎓 **MBA in Business Intelligence**
 
 ## 🧑‍💻 Professional Experience  
 As a Junior Developer, I:  
