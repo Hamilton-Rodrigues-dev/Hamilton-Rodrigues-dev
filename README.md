@@ -6,7 +6,7 @@
 # 👋🏻 Hello, I'm Hamilton — also known as HAMS 👾
 
 ## 💼 Career Path  
-I'm currently working as a **Junior Developer**, with a focus on **front-end technologies** and a strong commitment to continuous learning and professional growth.
+Currently, I work as a **Full Stack Developer**, focusing on enterprise solutions, from Front-end and Back-end to Automation, AI, and Design. My focus is always on solving problems.
 
 ## 🎓 Academic Background  
 - 🎓 Technical degree in **Systems Analysis and Development**  
