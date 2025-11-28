@@ -3,7 +3,7 @@
   
 ## English version
 
-# 👋🏻 Hello, I'm Hamilton — also known as HAMS 👾
+# 👋🏻 Hello, I'm Hamilton 👾
 
 ## 💼 Career Path  
 Currently, I work as a **Full Stack Developer**, focusing on enterprise solutions, from Front-end and Back-end to Automation, AI, and Design. My focus is always on solving problems.
