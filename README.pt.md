@@ -1,14 +1,14 @@
 # Um resumo sobre mim em português
 
-# 👋🏻 Olá, eu sou o Hamilton — também conhecido como HAMS 👾
+# 👋🏻 Olá, me chamo Hamilton Rodrigues
 
 ## 💼 Caminho Profissional  
-Atualmente atuo como **desenvolvedor júnior**, com foco em tecnologias **front-end** e em constante evolução para me tornar um profissional completo na área de desenvolvimento de software.
+Atualmente atuo como **desenvolvedor Full Stack**, com foco em soluções empresariais, desde o Front, Back, Automações, IAs e Design. Sempre focando em resolver problemas.
 
 ## 🎓 Formação Acadêmica  
 - 🎓 Curso técnico em **Análise e Desenvolvimento de Sistemas**  
 - 🎓 Pós-graduação em **Desenvolvimento de Sistemas Java**  
-- 🎓 Cursando **MBA em Business Intelligence**
+- 🎓 MBA em Business Intelligence
 
 ## 🧑‍💻 Experiência Profissional  
 Atualmente trabalho como desenvolvedor júnior, onde:  
@@ -30,10 +30,10 @@ Atualmente trabalho como desenvolvedor júnior, onde:
 
 ### Ferramentas  
 - **Git**, **Azure DevOps**, **Insomnia**, **Postman**,  
-  **Zod**, **Better Auth**, **Angular Material**, **Shadcn**, **Jest**
+  **Zod**, **Better Auth**, **Angular Material**, **Shadcn**, **Jest**, **Playwright**, **N8N**, **GHL**
 
 ### Aprendizado Atual  
-- 🚀 Conceitos avançados de **Next.js**  
+- 🚀 Conceitos avançados de **Next.js**, **React**, **IA nos processos empresariais**, **N8N** e **GHL**
 - 🔄 Desenvolvimento **full-stack** e aplicações **SaaS**
 
 ## 📚 Objetivos Profissionais  
