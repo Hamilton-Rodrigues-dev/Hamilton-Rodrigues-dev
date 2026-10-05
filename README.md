@@ -1,58 +1,40 @@
-### Click to go to view the Portuguese version
-- [Português](README.pt.md)
-  
-## English version
+[Versão em português](README.pt.md)
 
-# 👋🏻 Hello, I'm Hamilton 👾
+# Hamilton Rodrigues
 
-## 💼 Career Path  
-Currently, I work as a **Full Stack Developer**, focusing on enterprise solutions, from Front-end and Back-end to Automation, AI, and Design. My focus is always on solving problems.
+**Full Stack Software Engineer** | TypeScript, Angular, NestJS, PostgreSQL | AI-assisted development (SDD)
 
-## 🎓 Academic Background  
-- 🎓 Technical degree in **Systems Analysis and Development**  
-- 🎓 Postgraduate degree in **Java Systems Development**  
-- 🎓 **MBA in Business Intelligence**
+Campo Grande, Brazil. Full stack developer on a logistics platform in production. I ship from specification to code with TypeScript (Angular and NestJS), PostgreSQL and Redis, and I use AI with discipline: every feature starts from a spec and only lands after passing tests and acceptance criteria.
 
-## 🧑‍💻 Professional Experience  
-As a Junior Developer, I:  
-- 💻 Build responsive web applications using **Angular**  
-- 🎨 Style interfaces using **SCSS** and **Tailwind CSS**  
-- 🔧 Collaborate using **Azure DevOps** and **Git** for version control  
-- 🔍 Test and debug API integrations with **Insomnia**
+## How I work with AI
 
-## 💻 Technical Skills  
+- **Spec-Driven Development (SDD):** PRD, tech spec, tasks and implementation as traceable steps, with AI agents at each step.
+- **Own rules and skills:** code, testing and environment-variable standards applied to every delivery.
+- **Verification:** AI output is checked by tests and acceptance criteria, never taken on faith.
 
-### Front-end  
-- **Angular**, **React**, **Next.js**, **TypeScript**, **SCSS**, **WordPress**
+## Stack
 
-### Back-end  
-- **Node.js**, **Next.js**, **PostgreSQL**, **Drizzle**, **Neon**, **Java**
+| Area | Technologies |
+| --- | --- |
+| Languages | TypeScript, JavaScript, SQL, Java (basic) |
+| Front end | Angular, React, Next.js, Tailwind CSS, shadcn/ui |
+| Back end | NestJS, Node.js, TypeORM, Drizzle, PostgreSQL, Redis, WebSocket |
+| Quality | Jest, Playwright, GitHub Actions, Postman, Git |
+| AI and automation | Claude Code, AI agents, N8N, WhatsApp API |
 
-### Design & Prototyping  
-- **Figma**, **Canva**, **Elementor**, **Framer**
+## Public projects
 
-### Tools  
-- **Git**, **Azure DevOps**, **Insomnia**, **Postman**  
-  **Zod**, **Better Auth**, **Angular Material**, **Shadcn**, **Jest**
+- [doutor-agenda](https://github.com/Hamilton-Rodrigues-dev/doutor-agenda): clinic SaaS with scheduling, patients, dashboard and Stripe (Next.js, Drizzle).
+- [doto](https://github.com/Hamilton-Rodrigues-dev/doto): CRM with Kanban, tasks, calendar and AI agents (React, TypeScript).
+- [Playwright](https://github.com/Hamilton-Rodrigues-dev/Playwright): E2E tests for critical flows with CI on GitHub Actions.
 
-### Currently Learning  
-- 🚀 Advanced **Next.js** concepts  
-- 🔄 Full-stack development and **SaaS** application architecture
+## Education
 
-## 📚 Professional Goals  
-I'm passionate about creating intuitive user interfaces and solving complex technical challenges.  
-My goal is to grow as a **full-stack developer**, mastering both front-end and back-end technologies.
+- MBA in Business Intelligence (UNIASSELVI, 2025)
+- Postgraduate degree in Java Systems Development (UNIASSELVI, 2025)
+- Technologist degree in Systems Analysis and Development (Estácio, 2024)
 
----
-
-🌐 Thanks for visiting my profile!  
-
-
- <div align = 'center'>
-  <p>📫 How to reach me: </p>
-  <a href = "https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox?compose=CllgCHrhVSwZQbpkLdfzbhWVvQSCsPSNvpzFvgQhhlKknJmPLRHwxZhBFXDZLcNTPsLksCFlJwg"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" {target="_blank"} rel="noopener noreferrer"></a>
-  <a href="https://www.linkedin.com/in/hamilton-rodrigues/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" {target="_blank"}></a>
-  <a href="https://www.instagram.com/hams_rodrigues/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- </div>
- 
-
+<div align="center">
+  <a href="mailto:hamilton.rodrigues.teixeira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/hamilton-rodrigues/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</div>
